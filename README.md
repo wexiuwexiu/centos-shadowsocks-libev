@@ -1,5 +1,10 @@
 # centos-shadowsocks-libev
 
+
+centos安装宝塔：
+
+yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
+
 查看内核版本命令：
 
 uname -r
