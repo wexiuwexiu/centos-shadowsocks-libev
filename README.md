@@ -6,4 +6,5 @@
 使用方法：
 
 wget https://down.24kplus.com/linux/shadowsocks/centos-shadowsocks-libev.sh
+
 chmod +x centos-shadowsocks-libev.sh && ./centos-shadowsocks-libev.sh
