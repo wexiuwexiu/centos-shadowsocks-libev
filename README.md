@@ -1,9 +1,13 @@
 # centos-shadowsocks-libev
 
 查看内核版本命令：
+
 uname -r
+
 适用于centos7的shadowssocks-libev一键安装脚本
+
 一键脚本已集成TCP优化、自动开启Google BBR（限 4.9 或更高版本内核）、自动安装 shadowsocks-libev
+
 来源：https://www.24kplus.com/linux/1371.html
 
 使用方法：
